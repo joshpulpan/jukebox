@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+	<user id="c50d3ee4-6e8b-4b8b-ba8a-21ca7dd5f534">
+		<name>Chris</name>
+		<password>1</password>
+	</user>
+	<user id="60eb0af3-2312-4b88-b30c-4937806c7744">
+		<name>Devon</name>
+		<password>22</password>
+	</user>
+	<user id="6d0e5271-1ce1-4aad-aeb7-0ae46a13da19">
+		<name>River</name>
+		<password>333</password>
+	</user>
+	<user id="e413fffc-d728-4e71-bdeb-fa396f20bb6d">
+		<name>Ryan</name>
+		<password>4444</password>
+	</user>
+</users>

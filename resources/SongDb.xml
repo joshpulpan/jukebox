@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<songs>
+	<song id="4158af70-2792-4214-b449-2d966b5f85b5">
+		<artist>Kevin Macleod</artist>
+		<title>Danse Macabre</title>
+		<filename>DanseMacabreViolinHook.mp3</filename>
+		<length>34</length>
+	</song>
+	<song id="28062977-1c47-4dbb-b117-805813e43fc8">
+		<artist>FreePlay Music</artist>
+		<title>Determined Tumbao</title>
+		<filename>DeterminedTumbao.mp3</filename>
+		<length>20</length>
+	</song>
+	<song id="cb0b8dbe-a609-452e-a5df-8f7261a9896f">
+		<artist>Sun Microsystems</artist>
+		<title>Flute</title>
+		<filename>flute.aif</filename>
+		<length>6</length>
+	</song>
+	<song id="e5afeade-2c95-4126-95cc-7b1641f9967a">
+		<artist>Kevin MacLeod</artist>
+		<title>Loping Sting</title>
+		<filename>LopingSting.mp3</filename>
+		<length>5</length>
+	</song>
+	<song id="a0158510-e715-4e7e-aa8b-9062fb00035d">
+		<artist>Unknown</artist>
+		<title>Space Music</title>
+		<filename>spacemusic.au</filename>
+		<length>6</length>
+	</song>
+	<song id="e8fa87d1-c824-4b77-a971-072b65c3a963">
+		<artist>FreePlay Music</artist>
+		<title>Swing Cheese</title>
+		<filename>SwingCheese.mp3</filename>
+		<length>15</length>
+	</song>
+	<song id="8974fcc9-42f8-431b-9227-90598c04d26b">
+		<artist>Microsoft</artist>
+		<title>Tada</title>
+		<filename>tada.wav</filename>
+		<length>2</length>
+	</song>
+	<song id="8206501e-9358-4806-99a5-313f1ea31d26">
+		<artist>Kevin MacLeod</artist>
+		<title>The Curtain Rises</title>
+		<filename>TheCurtainRises.mp3</filename>
+		<length>28</length>
+	</song>
+	<song id="2977ac95-6673-4715-baf2-eec698f5e9bc">
+		<artist>Pierre Langer</artist>
+		<title>Untameable Fire</title>
+		<filename>UntameableFire.mp3</filename>
+		<length>282</length>
+	</song>
+</songs>
